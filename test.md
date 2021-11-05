@@ -24,7 +24,7 @@ page_sections:
     image: "/uploads/2021/11/05/eberhard-grossgasteiger-xc7ho08ryf4-unsplash.jpg"
     alt_text: xwxw
   headline: swswsw
-  content: swswsw
+  content: swswsw<img src="/uploads/2021/11/05/cem2.png">
   cta:
     enabled: true
     url: ''
