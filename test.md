@@ -21,8 +21,8 @@ page_sections:
   block: hero-2
   background_image: ''
   image:
-    image: ''
-    alt_text: ''
+    image: "/uploads/2021/11/05/eberhard-grossgasteiger-xc7ho08ryf4-unsplash.jpg"
+    alt_text: xwxw
   headline: swswsw
   content: swswsw
   cta:
