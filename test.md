@@ -16,7 +16,7 @@ page_sections:
   logo: "/uploads/2021/11/05/cem2.png"
   cta:
     url: ''
-    button_text: ''
+    button_text: whatevs
 date: 2021-11-05 00:00:00 +0000
 
 ---
