@@ -9,7 +9,7 @@ page_sections:
   navigation:
   - link: "/"
     link_text: Ubuild
-  - link: "#swap"
+  - link: "#swap222"
     link_text: Swap
   - link: "#customize"
     link_text: Customize
