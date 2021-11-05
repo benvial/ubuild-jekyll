@@ -17,6 +17,18 @@ page_sections:
   cta:
     url: ''
     button_text: whatevs
+- template: hero-banner-w-image
+  block: hero-2
+  background_image: ''
+  image:
+    image: ''
+    alt_text: ''
+  headline: ''
+  content: ''
+  cta:
+    enabled: false
+    url: ''
+    button_text: ''
 date: 2021-11-05 00:00:00 +0000
 
 ---
