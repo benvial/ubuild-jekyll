@@ -12,7 +12,7 @@ page_sections:
   - link_text: First
     link: ''
   - link: ''
-    link_text: ''
+    link_text: Second
   logo: "/uploads/2021/11/05/cem2.png"
   cta:
     url: ''
