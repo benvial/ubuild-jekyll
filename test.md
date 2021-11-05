@@ -17,8 +17,7 @@ page_sections:
   cta:
     url: ''
     button_text: ''
-date: 
-published: false
+date: 2021-11-05 00:00:00 +0000
 
 ---
 # and this is a page
