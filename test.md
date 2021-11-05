@@ -18,6 +18,7 @@ page_sections:
     url: ''
     button_text: ''
 date: 
+published: false
 
 ---
 # and this is a page
