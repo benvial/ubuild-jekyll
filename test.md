@@ -19,12 +19,12 @@ page_sections:
     button_text: whatevs
 - template: hero-banner-w-image
   block: hero-2
-  background_image: ''
+  background_image: "/uploads/2021/11/05/eberhard-grossgasteiger-xc7ho08ryf4-unsplash.jpg"
   image:
     image: ''
     alt_text: ''
-  headline: ''
-  content: ''
+  headline: swswsw
+  content: swswsw
   cta:
     enabled: false
     url: ''
